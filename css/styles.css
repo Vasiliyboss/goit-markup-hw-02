@@ -12,7 +12,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: var(--main-background);
+  background-color: var(--main-title-color);
   color: var(--main-text-color);
   font-size: 14px;
   letter-spacing: 0.03em;
@@ -106,6 +106,9 @@ body {
   color: var(--second-title-color);
 }
 /* ///////////////////////* team////////////////  */
+.team {
+  background-color: var(--main-btn-color);
+}
 .team-title {
   font-weight: 700;
   font-size: 36px;
