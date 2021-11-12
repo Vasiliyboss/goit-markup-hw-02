@@ -86,6 +86,7 @@ body {
   letter-spacing: 0.06em;
   background-color: var(--third-title-color);
   color: var(--main-title-color);
+  cursor: pointer;
 }
 /* ///////////////////////* plan////////////////  */
 .plan-title {
@@ -171,6 +172,7 @@ body {
   line-height: 1.62;
   color: var(--second-title-color);
   background-color: var(--main-btn-color);
+  cursor: pointer;
 }
 .portfolio-btn:hover,
 .portfolio-btn:focus {
